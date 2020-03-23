@@ -7,23 +7,23 @@
 	"004": "If you are looking for a handyman or prompt remodeling services in Dallas, TX, you can have a difficult time deciding which service provider you should prefer. After all, there are plenty of handymen in the area, many of whom have excellent customer feedback.",
 	"005": "PROVIDING TOP QUALITY WORK IS GUARANTEED",
 	"006": "Our history of customer satisfaction, give you the confidence to choose handy RMS. Handy RMS was founded on integretity ,dedication and hard work.",
-	"007": "PAINTING - PLASTERINGz",
+	"007": "PAINTING - PLASTERING",
 	"008": " Repairs",
 	"009": " Holes",
 	"010": "\n              ",
 	"011": " Cracks",
 	"012": " Rooms",
-	"014": "OUTDOORz",
+	"014": "OUTDOOR",
 	"015": " Lawn Care",
 	"016": " Deck Installation",
 	"017": " Wood Fence",
 	"018": " Exterior",
-	"019": "BATH REPAIRS-PLUMBINGz",
+	"019": "BATH REPAIRS-PLUMBING",
 	"020": " Faucet Replacment",
 	"021": " Repair/Replace Toilets",
 	"023": " Repair Broken Tiles",
 	"024": " Vanity Installations",
-	"025": "ELECTRICALz",
+	"025": "ELECTRICAL",
 	"026": [
 		" TV Wall Mounting",
 		"HOME RENOVATIONSz"
@@ -41,7 +41,7 @@
 		" Faucet Replacement"
 	],
 	"029": " Repair Roofing",
-	"031": "GENERAL HANDYMANz",
+	"031": "GENERAL HANDYMAN",
 	"032": " Furniture Assembly",
 	"033": " Moving Help",
 	"034": " General Hanyman",
@@ -67,5 +67,27 @@
 		" General Hanyman",
 		" Out Door Projects",
 		"Also This"
+	],
+	"OUTDOOR": [
+		"  Lawn Care",
+		" Deck Installation",
+		"  Wood Fence",
+		"  Exterior",
+		"  Faucet Replacment",
+		"  Repair/Replace Toilets",
+		" Repair Broken Tiles",
+		"  Vanity Installations"
+	],
+	"ELECTRICAL": [
+		"  TV Wall Mounting",
+		"  Remote Control Systems",
+		"  Audio Systems",
+		"  Lighting"
+	],
+	"RENOVATIONS": [
+		"  Remodel Kitchet",
+		"  Remodel Bathroom",
+		" Repair Roofing",
+		"  Faucet Replacement"
 	]
 }

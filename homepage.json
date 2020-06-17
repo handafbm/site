@@ -4,10 +4,10 @@
 	"001": "\"handy to have around\"",
 	"002": "From new construction to changing a sink faucet we are here to help.",
 	"003": "Welcome to HandyRMS",
-	"004": "",
+	"004": "With 21 years experience Handy R.M.S has been helping customers achieve there construction and maintenance goals. We are qualified to handle anything from ground up projects to remodels and handyman services. We work with businesses, homeowners, and contractors to perform and meet the needs you have.   ",
 	"005": "PROVIDING TOP QUALITY WORK IS GUARANTEED",
 	"006": "Our history of customer satisfaction, give you the confidence to choose handy RMS. Handy RMS was founded on integretity ,dedication and hard work.",
-	"007": "PAINTING - PLASTERING",
+	"007": "New Construction/Remodels",
 	"008": " Repairs",
 	"009": " Holes",
 	"010": "\n              ",
@@ -18,14 +18,14 @@
 	"016": " Deck Installation",
 	"017": " Wood Fence",
 	"018": " Exterior",
-	"019": "BATH REPAIRS-PLUMBING",
+	"019": "",
 	"020": " Faucet Replacment",
 	"021": " Repair/Replace Toilets",
 	"023": " Repair Broken Tiles",
 	"024": " Vanity Installations",
-	"025": "ELECTRICAL",
+	"025": "Maintenance/Service",
 	"026": [
-		" TV Wall Mounting",
+		"Trades",
 		"HOME RENOVATIONSz"
 	],
 	"027": [
@@ -62,39 +62,31 @@
 	"about-img-07": "https://cdn.jsdelivr.net/gh/handafbm/site@16e1f0f96d744a1b1ee43f209db35d5f2ce18132/images/h.jpg",
 	"about-img-08": "assets/images/gallery/i.jpg",
 	"General": [
-		" Furniture Assembly",
-		" Moving Help",
-		" General Hanyman",
-		" Out Door Projects",
-		"Also This"
+		"Plumbing Fixtures",
+		"Electrical Fixes & Upgrades",
+		"Doors & Windows"
 	],
 	"OUTDOOR": [
-		"  Lawn Care",
-		" Deck Installation",
-		"  Wood Fence",
-		"  Exterior",
-		"  Faucet Replacment",
-		"  Repair/Replace Toilets",
-		" Repair Broken Tiles",
-		"  Vanity Installations"
+		"Decks",
+		"Pergolas",
+		"Fencing"
 	],
 	"ELECTRICAL": [
-		"  TV Wall Mounting",
-		"  Remote Control Systems",
-		"  Audio Systems",
-		"  Lighting"
+		"Emergency Services",
+		" Preventative Maintenance "
 	],
 	"RENOVATIONS": [
-		"  Remodel Kitchet",
-		"  Remodel Bathroom",
-		" Repair Roofing",
-		"  Faucet Replacement"
+		"Carpentry",
+		"Plumbing",
+		"Electrical",
+		"Flooring",
+		"Masonary",
+		"Tile"
 	],
 	"PAINTING": [
-		"Repairs",
-		" Holes",
-		" Water Damage",
-		" Cracks",
-		" Rooms"
+		"New Homes",
+		"Room Additions",
+		"Kitchen/Bathroom Remodels",
+		"Living Space Upgrades"
 	]
 }

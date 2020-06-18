@@ -81,7 +81,8 @@
 		"Electrical",
 		"Flooring",
 		"Masonary",
-		"Tile"
+		"Tile",
+		"Drywall"
 	],
 	"PAINTING": [
 		"New Homes",

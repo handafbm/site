@@ -13,7 +13,7 @@
 	"010": "             ",
 	"011": " Cracks",
 	"012": " Rooms",
-	"014": "General Handy Man",
+	"014": "Outdoor Spaces",
 	"015": " Lawn Care",
 	"016": " Deck Installation",
 	"017": " Wood Fence",
@@ -41,13 +41,13 @@
 		" Lighting",
 		" Faucet Replacement"
 	],
-	"031": "Outdoor",
+	"031": "Handyman ",
 	"032": " Furniture Assembly",
 	"033": " Moving Help",
 	"034": " General Hanyman",
 	"035": " Out Door Projects",
 	"036": "YOU HAVE PROJECT? WE HAVE THE SOLUTION ",
-	"037": " Let us help you complete those projects for you, ",
+	"037": "Let us help you complete those projects for you!",
 	"company_name": "HANDY RMS",
 	"telephone_o1": "TELEPHONE : (760)-500-8574",
 	"email": "email: info@handyrms.com",
@@ -62,9 +62,11 @@
 	"about-img-07": "https://cdn.jsdelivr.net/gh/handafbm/site@e733b4c25b22863ff2b226d4e1bd1079e0115767/images/i.jpg",
 	"about-img-08": "https://cdn.jsdelivr.net/gh/handafbm/site@b8da51d48bca8f647cc44e0268f41e1b149cca68/images/g.jpg",
 	"General": [
-		"Plumbing Fixtures",
-		"Electrical Fixes & Upgrades",
-		"Doors & Windows"
+		"Plumbing ",
+		"Electrical ",
+		"Leaks",
+		"Cracks",
+		"TV Mounting"
 	],
 	"OUTDOOR": [
 		"Decks",
@@ -72,29 +74,30 @@
 		"Fencing"
 	],
 	"ELECTRICAL": [
-		"Emergency Services",
-		" Preventative Maintenance "
-	],
-	"RENOVATIONS": [
 		"Carpentry",
 		"Plumbing",
 		"Electrical",
-		"Flooring",
 		"Masonary",
 		"Tile",
-		"Drywall"
+		"Drywall",
+		"Flooring"
+	],
+	"RENOVATIONS": [
+		"Tenant Improvements",
+		"Maintenance",
+		"Emergency Services"
 	],
 	"PAINTING": [
 		"New Homes",
 		"Room Additions",
 		"Kitchen/Bathroom Remodels",
-		"Living Space Upgrades"
+		"Living Space Upgrades",
+		"Doors/Windows"
 	],
-	"019b": "BATH OUTDOOR-PLUMBING",
+	"019b": "Maintenance/Service",
 	"OUTDOORS": [
-		"  Kitchen",
-		" Washing Machine",
-		" Garage",
-		"  Vanity Installations"
+		"Emergency Services ",
+		"Preventive Maintenance ",
+		"Home Care"
 	]
 }

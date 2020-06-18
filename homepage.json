@@ -36,15 +36,11 @@
 		" Audio Systems",
 		" Remodel Bathroom"
 	],
-	"029": [
-		" Audio Systems",
-		" Remodel Bathroom"
-	],
+	"029": " Repair Roofing",
 	"030": [
 		" Lighting",
 		" Faucet Replacement"
 	],
-	"029": " Repair Roofing",
 	"031": "Outdoor",
 	"032": " Furniture Assembly",
 	"033": " Moving Help",
@@ -93,5 +89,12 @@
 		"Room Additions",
 		"Kitchen/Bathroom Remodels",
 		"Living Space Upgrades"
+	],
+	"019b": "BATH OUTDOOR-PLUMBING",
+	"OUTDOORS": [
+		"  Kitchen",
+		" Washing Machine",
+		" Garage",
+		"  Vanity Installations"
 	]
 }

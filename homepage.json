@@ -10,7 +10,7 @@
 	"007": "New Construction/Remodels",
 	"008": " Repairs",
 	"009": " Holes",
-	"010": "R             ",
+	"010": "             ",
 	"011": " Cracks",
 	"012": " Rooms",
 	"014": "General Handy Man",
@@ -33,6 +33,10 @@
 		" Remodel Kitchet"
 	],
 	"028": [
+		" Audio Systems",
+		" Remodel Bathroom"
+	],
+	"029": [
 		" Audio Systems",
 		" Remodel Bathroom"
 	],

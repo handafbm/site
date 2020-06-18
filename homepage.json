@@ -13,19 +13,19 @@
 	"010": "\n              ",
 	"011": " Cracks",
 	"012": " Rooms",
-	"014": "OUTDOOR",
+	"014": "General Handy Man",
 	"015": " Lawn Care",
 	"016": " Deck Installation",
 	"017": " Wood Fence",
 	"018": " Exterior",
-	"019": "",
+	"019": "Maintenance & Services",
 	"020": " Faucet Replacment",
 	"021": " Repair/Replace Toilets",
 	"023": " Repair Broken Tiles",
 	"024": " Vanity Installations",
-	"025": "Maintenance/Service",
+	"025": "Trades",
 	"026": [
-		"Trades",
+		"Commercial",
 		"HOME RENOVATIONSz"
 	],
 	"027": [
@@ -41,7 +41,7 @@
 		" Faucet Replacement"
 	],
 	"029": " Repair Roofing",
-	"031": "GENERAL HANDYMAN",
+	"031": "Outdoor",
 	"032": " Furniture Assembly",
 	"033": " Moving Help",
 	"034": " General Hanyman",
